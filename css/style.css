@@ -1,0 +1,45 @@
+.round-button {
+    display:block;
+    width:75px;
+    height:75px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    color:#f5f5f5;
+}
+.blue{background: #0011ff;}
+.purple{background: #3700ff;}
+.pink{background: #f700ff;}
+.red{background: #ff0000;}
+.orange{background: #ff8800;}
+.yellow{background: #fffb00;}
+.green{background: #1eff00;}
+.white{background: #00fff2;}
+.grey{background: #646464;}
+.brown{background: #572e00;}
+
+.color{
+    padding-top: 90px;
+}
+
+.productcol{
+    text-align: center;
+}
+
+.titlecol{
+text-align: center;
+}
+
+.textcol{
+text-align: center;
+}
+
+
+
+.dynapuff {
+  font-family: "DynaPuff", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
